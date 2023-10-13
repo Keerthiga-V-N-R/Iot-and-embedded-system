@@ -14,4 +14,4 @@ This Arduino project demonstrates how to blink an LED using an Arduino board.
 The circuit diagram shows how to connect the components to your Arduino board.
 
 ## Arduino Code
-The `blink.ino` file contains the Arduino code for blinking the LED.
+The `Blink.ino` file contains the Arduino code for blinking the LED.
